@@ -13,7 +13,7 @@ Com o decorrer de cada projeto vamos percebendo que podemos melhorar a interativ
 Spectre.Console é uma biblioteca para .NET que facilita a construção de interfaces de linha de comando (CLIs) mais ricas e interativas. Permite exibir texto formatado, tabelas, gráficos, barras de progresso, menus e muito mais diretamente no teclado, proporcionando uma experiência de usuário mais interessante e informativa em aplicações de terminal.
 
 <video controls loop style="width: 100%; height: 100%; object-fit: cover;">
-  <source src="https://spectreconsole.net/assets/images/table.webm" type="video/webm">
+  <source src="table.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
